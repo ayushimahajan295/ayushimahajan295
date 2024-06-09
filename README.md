@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with anhy Internship roles.
 - 💬 Ask me about anytging and I would love to answer.
 - 📫 How to reach me: <br/>
-[GitHub](https://github.com/ayushimahajan295)
+[GitHub](https://github.com/ayushimahajan295) </br>
 [LinkedIn](https://www.linkedin.com/in/ayushi-mahajan-5bb879282/) <br/>
 [Instagram](https://www.instagram.com/ayusshhhiiii_/) <br/>
 - 😄 Pronouns: She/Her

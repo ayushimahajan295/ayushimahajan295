@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Svelte.
 - 👯 I’m looking to collaborate on any projects I have the skills to work on.
 - 🤔 I’m looking for help with anhy Internship roles.
-- 💬 Ask me about anytging and I would love to answer.
+- 💬 Ask me about anything and I would love to answer.
 - 📫 How to reach me: <br/>
 [GitHub](https://github.com/ayushimahajan295) </br>
 [LinkedIn](https://www.linkedin.com/in/ayushi-mahajan-5bb879282/) <br/>

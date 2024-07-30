@@ -12,3 +12,5 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Curious to learn.
 - 👩🏻‍💻 Skills: C, C++, Java, Svelte, SvelteKit, GitHub, Version Control, Project Collaboration, Communication, Agile Methodology.
+
+  ![](https://leetcard.jacoblin.cool/ayushi-mahajan?ext=heatmap)
